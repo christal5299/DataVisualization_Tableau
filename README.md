@@ -1,4 +1,4 @@
-# Assignment 3 - Creating Charts in Tableau
+# Data Visualization Assignment 3 - Creating Charts in Tableau
 
 ### Learning Goal
 Train yourself in using Tableau for creating effective visualizations
